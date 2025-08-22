@@ -22,7 +22,7 @@ The project explores how a gamified approach can make data science concepts more
 - **Low-Fidelity Wireframes** – sketched user flows and layouts to establish structure  
 - **High-Fidelity Prototyping** – used Framer’s grid, stack, and interactive components to design a detailed, functional experience  
 - **Interactivity & Animation** – dropdowns, slideshows, quizzes with reset options, and chart generation for data challenges  
-- **User Testing** – in-person usability testing with participants, gathering feedback on clarity, navigation, and interactive elements:contentReference[oaicite:1]{index=1}  
+- **User Testing** – in-person usability testing with participants, gathering feedback on clarity, navigation, and interactive elements
 
 ---
 
@@ -38,7 +38,7 @@ The project explores how a gamified approach can make data science concepts more
 
 ## 👥 User Testing & Insights
 
-- Participants navigated modules and quizzes smoothly, confirming intuitive design:contentReference[oaicite:2]{index=2}  
+- Participants navigated modules and quizzes smoothly, confirming intuitive design.
 - The **reset feature** in quizzes was seen as highly useful and should be applied more broadly  
 - Some learners needed clearer visual cues for key information highlighting mistakes in knowledge checks, simplifying data input for challenges
 - Lessons learned: reinforce feedback cues, refine guidance, and improve discoverability of interactive elements  
@@ -56,8 +56,8 @@ The project explores how a gamified approach can make data science concepts more
 
 ## 📂 Repository Contents
 
-- **Framer_Learning_Platform_JillPlatts.pdf** – full design process report and usability testing notes  
-- **Prototype link** – [Live Demo](https://maroon-menu-830795.framer.app/)  
+- **Framer_Learning_Platform_JillPlatts.pdf** - full design process report and usability testing notes  
+- **Prototype link** - [Live Demo](https://maroon-menu-830795.framer.app/)  
 
 ---
 
