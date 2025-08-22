@@ -19,10 +19,10 @@ The project explores how a gamified approach can make data science concepts more
 
 ## 🛠️ Development Process
 
-- **Low-Fidelity Wireframes** – sketched user flows and layouts to establish structure  
+- **Storyboarding & Early Sketches** – mapped the basic user flows (homepage, modules, quizzes, challenges) to clarify structure before moving into Framer  
 - **High-Fidelity Prototyping** – used Framer’s grid, stack, and interactive components to design a detailed, functional experience  
 - **Interactivity & Animation** – dropdowns, slideshows, quizzes with reset options, and chart generation for data challenges  
-- **User Testing** – in-person usability testing with participants, gathering feedback on clarity, navigation, and interactive elements
+- **User Testing** – in-person usability testing with participants, gathering feedback on clarity, navigation, and interactive elements  
 
 ---
 
