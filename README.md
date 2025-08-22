@@ -1,4 +1,4 @@
-# 📚 Learning Platform (Datatropolis - Data City) – Framer Prototype
+# 📚 Learning Platform (Datatropolis - Data City) - Framer Prototype
 
 This repository documents the **Learning Platform (Datatropolis - Data City)** prototype, designed and built with [Framer](https://www.framer.com/).  
 
