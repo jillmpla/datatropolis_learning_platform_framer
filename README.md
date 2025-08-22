@@ -6,6 +6,8 @@ The project explores how a gamified approach can make data science concepts more
 
 🔗 **[Live Demo](https://maroon-menu-830795.framer.app/)**  
 
+> 📌 This prototype demonstrates how **gamification, interactivity, and UX design** can transform complex subjects like data science into engaging learning experiences.  
+
 ---
 
 ## 🎯 Purpose of the Prototype
@@ -36,11 +38,18 @@ The project explores how a gamified approach can make data science concepts more
 
 ---
 
+## 🧱 Design Patterns & System Thinking
+- **Cards** for organizing content consistently across dashboard, quizzes, and challenges  
+- **Stacks & Grids** for responsive layouts, scalable to future lessons and quizzes  
+- **Reusable Components** – dropdowns, quiz cards, and modal windows built once and applied across multiple flows  
+
+---
+
 ## 👥 User Testing & Insights
 
 - Participants navigated modules and quizzes smoothly, confirming intuitive design.
 - The **reset feature** in quizzes was seen as highly useful and should be applied more broadly  
-- Some learners needed clearer visual cues for key information highlighting mistakes in knowledge checks, simplifying data input for challenges
+- Some learners needed clearer visual cues for key information, such as better highlighting of mistakes in knowledge checks and simpler data input in challenges.
 - Lessons learned: reinforce feedback cues, refine guidance, and improve discoverability of interactive elements  
 
 ---
@@ -50,7 +59,7 @@ The project explores how a gamified approach can make data science concepts more
 - **Information Design** – Very High Fidelity: consistent layouts, responsive grids, clear organization  
 - **Interaction Design** – High Fidelity: custom interactive components, but could expand with code overrides  
 - **Visual Branding** – Very High Fidelity: cohesive theme (urban planning + data science), logo, color palette, consistent typography  
-- **Editorial Content** – Very High Fidelity: no filler text; real lessons, quizzes, and challenges used:contentReference[oaicite:3]{index=3}  
+- **Editorial Content** – Very High Fidelity: no filler text; real lessons, quizzes, and challenges
 
 ---
 
@@ -61,4 +70,7 @@ The project explores how a gamified approach can make data science concepts more
 
 ---
 
-> 📌 This prototype demonstrates how **gamification, interactivity, and UX design** can transform complex subjects like data science into engaging learning experiences.  
+## 🔮 Next Steps
+- Expand accessibility testing (screen readers, keyboard navigation)  
+- Add more guided feedback in challenges to support novice learners  
+- Explore integrating real datasets for more authentic experiences  
