@@ -1,12 +1,10 @@
 # 📚 Learning Platform (Datatropolis - Data City) - Framer Prototype
 
-This repository documents the **Learning Platform (Datatropolis - Data City)** prototype, designed and built with [Framer](https://www.framer.com/).  
+This repository documents the learning platform Datatropolis - Data City prototype, designed and built with [Framer](https://www.framer.com/).  
 
 The project explores how a gamified approach can make data science concepts more engaging, combining **urban planning themes** with structured learning modules, interactive quizzes, and applied data challenges.  
 
 🔗 **[Live Demo](https://maroon-menu-830795.framer.app/)**  
-
-> 📌 This prototype demonstrates how **gamification, interactivity, and UX design** can transform complex subjects like data science into engaging learning experiences.  
 
 ---
 
